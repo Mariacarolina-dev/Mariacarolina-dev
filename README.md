@@ -22,7 +22,9 @@ Desenvolvedora em transição para o ecossistema Fullstack, focada em otimizar p
 ![JavaScript](https://img.shields.io/badge/javascript-%236A0DAD.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%236A0DAD.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%236A0DAD.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%236A0DAD.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<a href="https://www.credly.com/badges/96e4832a-36e5-4279-8e07-b533118fcf0c/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-6A0DAD?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Certificação AWS">
+</a>
 
 ---
 
