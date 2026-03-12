@@ -27,7 +27,7 @@ Desenvolvedora em transição para o ecossistema Fullstack, focada em otimizar p
   <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/96e4832a-36e5-4279-8e07-b533118fcf0c/public_url" target="_blank">
-        <img src="https://images.credly.com/images/0063d974-0b30-4063-93c0-552d88b7b049/image.png" width="100" alt="AWS Certified">
+      <img src="https://api.iconify.design/logos:aws-certified-cloud-practitioner.svg" width="100" alt="AWS Certified">
       </a>
     </td>
     <td align="center">
