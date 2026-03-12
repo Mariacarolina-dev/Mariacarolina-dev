@@ -1,14 +1,14 @@
 # Hello, World! 💜
 
-**Fullstack Developer | Automation Process (TS • JS • PY) | AWS Certified**
+**Fullstack Developer (TS • JS • PY) | Analista de Operações | AWS Certified**
 
 ---
 
 ### 🚀 Sobre mim
-Especialista em tentar transformar processos manuais em fluxos automáticos. Como Analista de Operações, utilizo o ecossistema TypeScript/JavaScript e o poder do Python para criar soluções de alto impacto e escala.
+Desenvolvedora em transição para o ecossistema Fullstack, focada em otimizar processos através de automações inteligentes. Utilizo TypeScript, JavaScript e Python para transformar desafios operacionais em soluções técnicas eficientes.
 
 - ☁️ **Cloud:** AWS Certified Cloud Practitioner.
-- 🤖 **Expertise:** RPA (Web/DESK Automation), Fullstack Development e Cloud Computing.
+- 🤖 **Interesses:** Automação de Processos (RPA), Desenvolvimento Web e Cloud Computing.
 - 📍 São Paulo, Brasil.
 
 ---
