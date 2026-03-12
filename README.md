@@ -17,14 +17,23 @@ Desenvolvedora em transição para o ecossistema Fullstack, focada em otimizar p
 
 ---
 
-### 🛠 Minha Stack Técnica
-![TypeScript](https://img.shields.io/badge/typescript-%236A0DAD.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%236A0DAD.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/python-%236A0DAD.svg?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%236A0DAD.svg?style=for-the-badge&logo=node.js&logoColor=white)
-<a href="https://www.credly.com/badges/96e4832a-36e5-4279-8e07-b533118fcf0c/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-6A0DAD?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Certificação AWS">
-</a>
+### 🛠 Stack & Certificações
+<table>
+  <tr>
+    <td align="center"><b>Cloud</b></td>
+    <td align="center"><b>Desenvolvimento & Automação</b></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="SEU_LINK_AQUI"><img src="https://img.shields.io/badge/AWS-6A0DAD?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-6A0DAD?style=for-the-badge&logo=typescript">
+      <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python">
+      <img src="https://img.shields.io/badge/Node.js-6A0DAD?style=for-the-badge&logo=nodedotjs">
+    </td>
+  </tr>
+</table>
 
 ---
 
