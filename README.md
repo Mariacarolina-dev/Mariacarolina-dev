@@ -1,4 +1,4 @@
-# Olá, eu sou a Maria! 💜
+# Hello, World! 💜
 
 **Fullstack Developer | Automation Process (TS • JS • PY) | AWS Certified**
 
