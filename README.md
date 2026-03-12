@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner" alt="banner">
+  <img src="banner.png" alt="banner">
 </p>
 
 # Hello, World! 💜
