@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner Automating the Future">
+</p>
+
 # Hello, World! 💜
 
 **Fullstack Developer (TS • JS • PY) | Analista de Operações | AWS Certified**
