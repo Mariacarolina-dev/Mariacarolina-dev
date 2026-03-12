@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Gemini_Generated_Image_fwejz3fwejz3fwej" alt="banner">
+  <img src="banner" alt="banner">
 </p>
 
 # Hello, World! 💜
