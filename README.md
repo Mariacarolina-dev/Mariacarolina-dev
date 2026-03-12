@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="banner" width="100%">
+  <img src="banner.png?raw=true" alt="Banner Automating Solutions" width="100%">
 </p>
 
 # Hello, World! 💜
