@@ -25,18 +25,20 @@ Desenvolvedora em transição para o ecossistema Fullstack, focada em otimizar p
   </tr>
   <tr>
     <td>
-      <a href="SEU_LINK_AQUI"><img src="https://img.shields.io/badge/AWS-6A0DAD?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/TypeScript-6A0DAD?style=for-the-badge&logo=typescript">
-      <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python">
-      <img src="https://img.shields.io/badge/Node.js-6A0DAD?style=for-the-badge&logo=nodedotjs">
+<p align="left">
+  <a href="https://www.credly.com/badges/96e4832a-36e5-4279-8e07-b533118fcf0c/public_url" target="_blank">
+    <img src="https://images.credly.com/images/0063d974-0b30-4063-93c0-552d88b7b049/image.png" width="110" align="center">
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/typescript-%236A0DAD.svg?style=for-the-badge&logo=typescript&logoColor=white" align="center">
+  <img src="https://img.shields.io/badge/python-%236A0DAD.svg?style=for-the-badge&logo=python&logoColor=white" align="center">
+</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Estatísticas (Contraste Ametista)
+### 📊 Estatísticas 
 ![Estatísticas da Maria](https://github-readme-stats.vercel.app/api?username=Mariacarolina-dev&show_icons=true&theme=radical&title_color=6A0DAD&icon_color=6A0DAD&hide_border=true)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariacarolina-dev&layout=compact&theme=radical&title_color=6A0DAD&hide_border=true)
