@@ -18,19 +18,25 @@ Desenvolvedora em transição para o ecossistema Fullstack, focada em otimizar p
 ---
 
 ### 🛠 Stack & Certificações
+
 <table>
   <tr>
     <td align="center"><b>Cloud</b></td>
     <td align="center"><b>Desenvolvimento & Automação</b></td>
   </tr>
-<p align="left">
-  <a href="https://www.credly.com/badges/96e4832a-36e5-4279-8e07-b533118fcf0c/public_url" target="_blank">
-    <img src="https://images.credly.com/images/0063d974-0b30-4063-93c0-552d88b7b049/image.png" width="110" align="center">
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/typescript-%236A0DAD.svg?style=for-the-badge&logo=typescript&logoColor=white" align="center">
-  <img src="https://img.shields.io/badge/python-%236A0DAD.svg?style=for-the-badge&logo=python&logoColor=white" align="center">
-</p>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/96e4832a-36e5-4279-8e07-b533118fcf0c/public_url" target="_blank">
+        <img src="https://images.credly.com/images/0063d974-0b30-4063-93c0-552d88b7b049/image.png" width="100" alt="AWS Certified">
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/typescript-%236A0DAD.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS">
+      <img src="https://img.shields.io/badge/javascript-%236A0DAD.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JS">
+      <img src="https://img.shields.io/badge/python-%236A0DAD.svg?style=for-the-badge&logo=python&logoColor=white" alt="PY">
+    </td>
+  </tr>
+</table>
 
 ---
 
