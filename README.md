@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner Automating the Future">
+  <img src="Gemini_Generated_Image_fwejz3fwejz3fwej" alt="banner">
 </p>
 
 # Hello, World! 💜
